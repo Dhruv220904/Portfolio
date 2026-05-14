@@ -18,7 +18,6 @@ export const metadata: Metadata = {
   title: "Dhruv Saxena | Product & AI Builder",
   description:
     "Portfolio of Dhruv Saxena: product-focused CS undergraduate building AI-enabled products, full-stack systems, and measurable roadmaps.",
-  generator: "v0.app",
 }
 
 export const viewport: Viewport = {

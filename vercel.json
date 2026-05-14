@@ -1,6 +1,6 @@
 {
-  "installCommand": "cd My_portfolio && pnpm install",
-  "buildCommand": "cd My_portfolio && pnpm build",
+  "installCommand": "cd My_portfolio && npm install",
+  "buildCommand": "cd My_portfolio && npm run build",
   "outputDirectory": "My_portfolio/.next",
-  "devCommand": "cd My_portfolio && pnpm dev"
+  "devCommand": "cd My_portfolio && npm run dev"
 }
